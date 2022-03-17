@@ -1,19 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x7B7FF8E7eaa4f0fEE1535E1734f6228f970F8252",
-  "SCAN_LINK": "https://polygonscan.com/0x7B7FF8E7eaa4f0fEE1535E1734f6228f970F8252",
+  "CONTRACT_ADDRESS": "0xD4137Ce13Ef3333edb8634d95DaFDd697098c017",
+  "SCAN_LINK": "https://etherscan.io/address/0xd4137ce13ef3333edb8634d95dafdd697098c017",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "PHANTOMS NFT",
   "SYMBOL": "PHANTOMS",
-  "MAX_SUPPLY": 777,
-  "WEI_COST": 100000000000000000,
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 90000000000000000,
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 21000,
   "GAS_PRICE": 36000000000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/phantom-nfts",
   "SHOW_BACKGROUND": true
 }
