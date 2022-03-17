@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x7B7FF8E7eaa4f0fEE1535E1734f6228f970F8252",
+  "SCAN_LINK": "https://polygonscan.com/0x7B7FF8E7eaa4f0fEE1535E1734f6228f970F8252",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PHANTOMS NFT",
+  "SYMBOL": "PHANTOMS",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 21000,
+  "GAS_PRICE": 36000000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
