@@ -12,8 +12,8 @@
   "WEI_COST": 90000000000000000,
   "DISPLAY_COST": 0.09,
   "GAS_LIMIT": 21000,
-  "GAS_PRICE": 25000000000,
-  "MARKETPLACE": "Opeansea",
+  "GAS_PRICE": 45000000000,
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/phantom-nfts",
   "SHOW_BACKGROUND": false
 }
